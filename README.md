@@ -1,2 +1,7 @@
-# bento-combo-lab
-Public playable release of Bento Combo Lab
+# 怪怪便當研究所
+
+[開始 H5 試玩](https://poyueh.github.io/bento-combo-lab/)
+
+選擇食材、擺進便當盒，透過相鄰效果、道具與倍率組合達到目標。此版本為玩法驗證原型，包含三關；遊戲平衡與視覺仍在調整。
+
+此倉庫存放瀏覽器試玩所需的發布檔案。瀏覽器遊戲的前端檔案可被下載與檢視。
